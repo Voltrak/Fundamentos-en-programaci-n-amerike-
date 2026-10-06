@@ -1,0 +1,5 @@
+a. Pedir el capital del préstamo.
+b. Si el capital es -1, salir del ciclo.
+c. Pedir la tasa de interés anual y el plazo en días.
+d. Calcular el interés: (capital * tasa * dias) / 365.
+e. Mostrar el cargo por interés.

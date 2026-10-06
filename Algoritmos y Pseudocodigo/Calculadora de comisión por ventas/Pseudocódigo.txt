@@ -1,0 +1,4 @@
+a. Pedir las ventas brutas en dólares.
+b. Si las ventas son -1, salir del ciclo.
+c. Calcular el salario: 200 + (0.09 * ventas).
+d. Mostrar el salario calculado.

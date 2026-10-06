@@ -1,0 +1,6 @@
+a. Pedir número de cuenta.
+b. Si la cuenta es -1, salir del ciclo.
+c. Pedir saldo inicial, cargos, abonos y límite de crédito.
+d. Calcular nuevo_saldo = saldo_inicial + cargos - abonos.
+e. Si nuevo_saldo > limite_credito:
+   Mostrar Cuenta, Límite de crédito, Saldo y el mensaje "Límite de crédito excedido."  

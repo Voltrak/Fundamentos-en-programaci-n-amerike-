@@ -1,0 +1,10 @@
+a. Pedir el número de horas trabajadas.
+b. Si las horas son -1, salir del ciclo.
+c. Pedir la tarifa por hora.
+d. Si las horas son <= 40:
+
+salario = horas * tarifa
+e. Si las horas son > 40:
+
+salario = (40 * tarifa) + ((horas - 40) * tarifa * 1.5)
+f. Mostrar el salario bruto calculado.
